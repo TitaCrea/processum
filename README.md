@@ -1,8 +1,9 @@
 BONJOUR !
 
 L'ensemble des fichiers contenus dans ce master constitue le thème WORDPRESS nommé 'processum'
-composé d'Underscores et de Zurb Foundation
-Il est le résultat/l'exemple du tuto (à plusieurs épisodes) que j'ai commencé sur mon blog http://webdezign.ch
+composé d'Underscores et de Zurb Foundation.
+Vous pouvez le télécharger au format .zip sur votre ordinateur via le bouton de droite 'Download to Desktop'.
+Ce thème est le résultat/l'exemple du tuto (à plusieurs épisodes) que j'ai commencé sur mon blog http://webdezign.ch
 > lien court vers l'article : http://wp.me/p5lP7t-7K
 
 Il évoluera au gré de mes rédactions. Stay tuned !
