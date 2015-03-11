@@ -9,6 +9,10 @@ Ce thème est le résultat/l'exemple du tuto (à plusieurs épisodes) que j'ai c
 Il évoluera au gré de mes rédactions. Stay tuned !
 Tita
 
+Changelog suivant billets webdezign.ch
+- functions.php > wp_enqueue_scripts() > mise en place des priorités 10, 100, 500 dans les feuilles de style pour que custom.css ait la main-mise sur les autres
+- mise en place Underscores + Foundation (billet du 09.03.15)
+
 PS - je vous laisse en fin de Readme.md avec les explications livrées par le générateur d'Underscores ... y'a plein de bonnes infos à prendre !
 
 [![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
